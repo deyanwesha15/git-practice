@@ -9,15 +9,15 @@ int main() {
     // Student Information
     // ==========================
 
-    string name = "Your Name";
-    string id = "24-XXXXX-X";
-    string section = "A";
+    string name = "Anwesha Dey";
+    string id = "24-58944-2";
+    string section = "x";
 
     // ==========================
     // Personal Information
     // ==========================
 
-    string department = "CSE";
+    string department = "DS";
     string university = "AIUB";
 
     // ==========================
@@ -28,11 +28,11 @@ int main() {
     cout << " Student Information System" << endl;
     cout << "==============================" << endl;
 
-    cout << "Name       : " << name << endl;
-    cout << "ID         : " << id << endl;
-    cout << "Section    : " << section << endl;
-    cout << "Department : " << department << endl;
-    cout << "University : " << university << endl;
+    cout << "Name       : " << Anwesha Dey << endl;
+    cout << "ID         : " << 24-58944-2 << endl;
+    cout << "Section    : " << X << endl;
+    cout << "Department : " << DS << endl;
+    cout << "University : " << AIUB << endl;
 
     cout << "\nWelcome to Git and GitHub!" << endl;
 
